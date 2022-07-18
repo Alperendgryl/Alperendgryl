@@ -11,7 +11,7 @@ Website (
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Alperendgryl&title_color=58A6FF&text_color=FFFFFF&theme=dark&line_height=40)
 
-<h2>🏆  Github Profile Trophy 🏆 </h2>
+<h2>🏆 Trophy 🏆 </h2>
 <img width=1100 src="https://github-profile-trophy.vercel.app/?username=Alperendgryl&column=9&theme=gruvbox&no-frame=true"/>
 
 **Languages**
