@@ -20,7 +20,7 @@ Website (
 <h2>💻 Tools 💻</h2>
 <code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/Unity.png" alt="Unity" width="77" height="30"/></code><code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/VS.png" alt="Visual Studio" width="35" height="35"/></code><code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/vscode.png" alt="Visual Studio Code" width="38" height="38"/></code><code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/Netbeans.png" alt="Netbeans" width="40" height="40"/></code><code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/MySQL.png" alt="MySQL" width="60" height="40"/></code><code><img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/PNG/Proteus.png " alt="Proteus" width="40" height="35"/></code>
 
-
+![](https://komarev.com/ghpvc/?username=Alperendgryl&style=flat-square)
 
 
 
