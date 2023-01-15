@@ -1,16 +1,16 @@
-### Hi there 👋
+<div align="center">
+ 
+<h1>Alperen DOGRUYOL</h1>
+<img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/LOGO.png" width="50" height="25">
+<img href="https://www.linkedin.com/in/alperendgryl00/" src="https://github.com/Alperendgryl/Alperendgryl/blob/main/LOGO.png" width="50" height="25">
 
-<!--
-**Alperendgryl/Alperendgryl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>🏆 Trophy 🏆 </h2>
+<img src="https://github-profile-trophy.vercel.app/?username=Alperendgryl&column=8&theme=gruvbox&no-frame=true"/>
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Languages 👨‍💻</h2>
+<img src="https://skillicons.dev/icons?i=java,php,py,cs,dotnet,html,css,js,bootstrap&theme=dark"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>💻 Tools 💻</h2>
+<img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,mysql,wordpress&theme=dark"/>
+ 
+</div>
