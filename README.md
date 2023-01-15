@@ -1,9 +1,5 @@
 <div align="center">
  
-<h1>Alperen DOGRUYOL</h1>
-<img src="https://github.com/Alperendgryl/Alperendgryl/blob/main/LOGO.png" width="50" height="25">
-<img href="https://www.linkedin.com/in/alperendgryl00/" src="https://github.com/Alperendgryl/Alperendgryl/blob/main/LOGO.png" width="50" height="25">
-
 <h2>🏆 Trophy 🏆 </h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Alperendgryl&column=8&theme=gruvbox&no-frame=true"/>
 
