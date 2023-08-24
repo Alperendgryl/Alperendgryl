@@ -7,6 +7,6 @@
 <img src="https://skillicons.dev/icons?i=java,php,cs,html,css&theme=dark"/>
 
 <h2>💻 Tools 💻</h2>
-<img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,mysql,mssql,wordpress&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=unity,visualstudio,vscode,idea,mysql,wordpress&theme=dark"/>
  
 </div>
